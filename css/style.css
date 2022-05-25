@@ -63,6 +63,10 @@ h1 {
     text-align: justify;
 }
 
+#main p {
+    padding: auto auto;
+}
+
 .logo {
     height: 100px;
 }

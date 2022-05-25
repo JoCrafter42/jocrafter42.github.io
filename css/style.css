@@ -6,7 +6,7 @@ html {
 
 * {
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins", sans-serif; /*Schriftart*/
 }
 
 body {
@@ -40,7 +40,7 @@ footer {
     min-height: 4rem;
     margin-top: 20px;
     width: 100%;
-    background-color: rgba(255, 238, 0, 0.5);
+    background-color: rgba(255, 238, 0, 0.5); /*Farbe der Fußzeile*/
 }
 
 footer p {

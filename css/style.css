@@ -70,19 +70,15 @@ h1 {
     height: 100px;
 }
 
-.gsc-control-cse {
-    border-radius: 15px;
-    border-color: white;
-    width: 90%;
-    margin: auto;
-}
-
-.gsc-table-result {
-    width: 90%;
-}
-
 ::-webkit-scrollbar {
     width: 0;
+}
+
+.gsc-control-cse {
+    border-radius: 15px !important;
+    border: none !important;
+    width: 90% !important;
+    margin: auto !important;
 }
 
 @media only screen and (max-device-width: 1366px) {

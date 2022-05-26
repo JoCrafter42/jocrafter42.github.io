@@ -72,8 +72,13 @@ h1 {
 
 .gsc-control-cse {
     border-radius: 15px;
+    border-color: none;
     width: 90%;
     margin: auto;
+}
+
+.gsc-control-cse {
+    width: 90%;
 }
 
 ::-webkit-scrollbar {

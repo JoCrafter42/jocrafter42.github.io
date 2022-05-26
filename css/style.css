@@ -14,7 +14,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     position: relative;
     min-height: 100vh;
     margin: auto auto;
@@ -73,6 +72,8 @@ h1 {
 
 .gsc-control-cse {
     border-radius: 15px;
+    width: 90%;
+    margin: auto;
 }
 
 ::-webkit-scrollbar {

@@ -81,6 +81,19 @@ h1 {
     margin: auto !important;
 }
 
+.gsc-input-box {
+    border-radius: 10px !important;
+}
+
+.gsc-search-button-v2 {
+    border-radius: 2px;
+    transition: border-radius 0.2s;
+}
+
+.gsc-search-button-v2:hover {
+    border-radius: 10px;
+}
+
 @media only screen and (max-device-width: 1366px) {
     footer p {
         padding: 18px;
